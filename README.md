@@ -12,6 +12,10 @@ Mental models used in introductory data science lessons.
 
 <a href="en/dplyr/filter.svg"><img src="en/dplyr/filter.svg" alt="dplyr filter" size="50%" /></a>
 
+### Mutate
+
+<a href="en/dplyr/mutate.svg"><img src="en/dplyr/mutate.svg" alt="dplyr mutate" size="50%" /></a>
+
 ## Formatting
 
 -   All diagrams are created with diagrams.net,
