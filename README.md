@@ -4,6 +4,8 @@ Mental models used in introductory data science lessons.
 
 ## dplyr
 
+<a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" size="50%" /></a>
+
 ### Select
 
 <a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="50%" /></a>
