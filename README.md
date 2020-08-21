@@ -6,15 +6,15 @@ Mental models used in introductory data science lessons.
 
 ### Select
 
-<a href="en/dplyr/select.svg"><img src="en/dplyr/select.svg" alt="dplyr select" size="50%" /></a>
+<a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="50%" /></a>
 
 ### Filter
 
-<a href="en/dplyr/filter.svg"><img src="en/dplyr/filter.svg" alt="dplyr filter" size="50%" /></a>
+<a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="50%" /></a>
 
 ### Mutate
 
-<a href="en/dplyr/mutate.svg"><img src="en/dplyr/mutate.svg" alt="dplyr mutate" size="50%" /></a>
+<a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="50%" /></a>
 
 ## Formatting
 
