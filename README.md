@@ -1,5 +1,19 @@
 # Concept Maps
 
+Mental models used in introductory data science lessons.
+
+## dplyr
+
+### Select
+
+<a href="dplyr/select.svg"><img src="dplyr/select.svg" alt="dplyr select" size="50%" /></a>
+
+### Filter
+
+<a href="dplyr/filter.svg"><img src="dplyr/filter.svg" alt="dplyr filter" size="50%" /></a>
+
+## Formatting
+
 -   All diagrams are created with diagrams.net,
     which can be [used online](https://app.diagrams.net/)
     or [downloaded](https://github.com/jgraph/drawio-desktop/releases/tag/v13.6.2)
@@ -30,7 +44,3 @@
     -   No background for text
     -   Connect both ends to anchor points on concepts
     -   Move text as needed so that it does *not* lie on the line
-
-## dplyr
-
--   [select](dplyr/select.svg)
