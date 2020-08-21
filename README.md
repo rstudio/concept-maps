@@ -6,11 +6,11 @@ Mental models used in introductory data science lessons.
 
 ### Select
 
-<a href="dplyr/select.svg"><img src="dplyr/select.svg" alt="dplyr select" size="50%" /></a>
+<a href="en/dplyr/select.svg"><img src="en/dplyr/select.svg" alt="dplyr select" size="50%" /></a>
 
 ### Filter
 
-<a href="dplyr/filter.svg"><img src="dplyr/filter.svg" alt="dplyr filter" size="50%" /></a>
+<a href="en/dplyr/filter.svg"><img src="en/dplyr/filter.svg" alt="dplyr filter" size="50%" /></a>
 
 ## Formatting
 
@@ -44,3 +44,33 @@ Mental models used in introductory data science lessons.
     -   No background for text
     -   Connect both ends to anchor points on concepts
     -   Move text as needed so that it does *not* lie on the line
+
+## Discussion
+
+-   **Why concept maps?**
+    They help authors figure out what they want to teach,
+    give other instructors a quick overview of a lesson,
+    and allow learners to check that they have constructed the right mental model.
+
+-   **What about translations?**
+    Please copy an existing diagram and save it in the appropriate language directory
+    (e.g., `af/topic.drawio` for concept maps in Afar).
+
+-   **Why SVG?**
+    Because vector diagrams rescale much more smoothly than raster images.
+
+-   **Why not use color? Or more shapes? Or...?**
+    The simpler these diagrams are,
+    the easier they will be to maintain.
+    Simple diagrams also display better on smaller or older devices.
+
+-   **Why not use [Graphviz](https://graphviz.org/),
+    [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/),
+    or some other tool that compiles text into diagrams?**
+    1.  They have a much steeper learning curve,
+        which means fewer people will be able to contribute.
+    2.  It's hard to get their automatic layout algorithms
+        to do as good a job as a person can do.
+    3.  They don't actually make version control easier
+        (reading and understanding the textual description of a diagram
+        is as hard as viewing two diagrams side by side).
