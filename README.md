@@ -18,6 +18,10 @@ Mental models used in introductory data science lessons.
 
 <a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="50%" /></a>
 
+### Group_by and Summarize
+
+<a href="en/group_by_summarize.svg"><img src="en/group_by_summarize.svg" alt="dplyr group_by and summarize" size="50%" /></a>
+
 ## Formatting
 
 -   All diagrams are created with diagrams.net,
