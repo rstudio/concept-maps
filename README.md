@@ -2,25 +2,46 @@
 
 Mental models used in introductory data science lessons.
 
+All material made available under the [Creative Commons - Attribution license](LICENSE.md).
+
 ## dplyr
 
 <a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" size="50%" /></a>
 
-### Select
+[Greg Wilson][wilson-greg]
+
+## Select
 
 <a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="50%" /></a>
 
-### Filter
+[Greg Wilson][wilson-greg]
+
+## Filter
 
 <a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="50%" /></a>
 
-### Mutate
+[Greg Wilson][wilson-greg]
+
+## Mutate
 
 <a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="50%" /></a>
 
-### Group_by and Summarize
+[Greg Wilson][wilson-greg]
+
+## Group_by and Summarize
 
 <a href="en/group_by_summarize.svg"><img src="en/group_by_summarize.svg" alt="dplyr group_by and summarize" size="50%" /></a>
+
+[Greg Wilson][wilson-greg]
+
+## Data Types
+
+<a href="en/data_types.svg"><img src="en/data_types.svg" alt="data types" size="50%" /></a>
+
+[Meghan Sposato][sposato-meghan],
+[Brendan Cullen][cullen-brendan]
+
+---
 
 ## Formatting
 
@@ -84,3 +105,7 @@ Mental models used in introductory data science lessons.
     3.  They don't actually make version control easier
         (reading and understanding the textual description of a diagram
         is as hard as viewing two diagrams side by side).
+
+[cullen-brendan]: https://bcullen.rbind.io/
+[sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
+[wilson-greg]: http://third-bit.com
