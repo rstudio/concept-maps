@@ -41,6 +41,12 @@ All material made available under the [Creative Commons - Attribution license](L
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
+## Pivoting
+
+<a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="50%" /></a>
+
+Florian Schmoll
+
 ---
 
 ## Formatting
