@@ -1,0 +1,14 @@
+digraph select {
+    select -> rows [label="does not\nmodify"];
+    select -> dataframe [label="acts on"];
+    select -> dplyr [label="part of"];
+    select -> columns [label="keeps\nsome of"];
+    select -> names [label="specifies"];
+    dataframe -> rows [label="has"];
+    dataframe -> columns [label="has"];
+    names -> columns [label="identify"];
+    names -> explicit;
+    names -> range;
+    names -> negate;
+    names -> pattern;
+}

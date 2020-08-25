@@ -1,0 +1,13 @@
+digraph group_by_summarize {
+    group_by -> dplyr [label="part of"];
+    summarize -> dplyr [label="part of"];
+    group_by -> columns [label="specifies"];
+    group_by -> labels [label="creates"];
+    group_by -> summarize [label="usually\nfollowed\nby"];
+    summarize -> group_by [label="does not\nrequire"];
+    summarize -> rows [label="specifies"];
+    summarize -> function [label="specifies"];
+    summarize -> labels [label="can use"];
+    dataframe -> columns  [label="has"];
+    dataframe -> rows [label="has"];
+}

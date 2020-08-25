@@ -1,0 +1,21 @@
+digraph dplyr {
+    columns -> "statistical variables" [label="represent"];
+    columns -> "unique names" [label="must have"];
+    select -> columns [label="chooses"];
+    mutate -> columns [label="creates"];
+    "tidy data" -> columns [label="has"];
+    "tidy data" -> dataframe [label="stored in"];
+    dplyr -> dataframe [label="works on"];
+    dplyr -> tidyverse [label="part of"];
+    dplyr -> functions [label="consists of"];
+    functions -> verbs [label="also called"];
+    "tidy data" -> rows [label="has"];
+    rows -> observations [label="represent"];
+    rows -> duplicated [label="may be"];
+    functions -> filter;
+    functions -> group_by;
+    functions -> summarize;
+    filter -> rows [label="chooses"];
+    filter -> rows [label="labels"];
+    filter -> rows [label="combines\nvalues\nfrom"];
+}

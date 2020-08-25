@@ -1,0 +1,18 @@
+digraph pivoting {
+    pivot_longer -> dplyr [label="part of"];
+    pivot_wider -> dplyr [label="part of"];
+    dataframe -> "values in\ncolumn names" [label="can have"];
+    dataframe -> "variable names\nin a column" [label="can have"];
+    pivot_longer -> "transform\nnames/values" [label="can"];
+    pivot_wider -> "format\nnames" [label="can"];
+    dataframe -> "wide to long" [label="transform\nfrom"];
+    dataframe -> "long to wide" [label="transform\nfrom"];
+    pivot_longer -> "number of\ncolumns" [label="decreases"];
+    pivot_longer -> "number of\nrows" [label="increases"];
+    pivot_wider -> "number of\ncolumns" [label="increases"];
+    pivot_wider -> "number of\nrows" [label="decreases"];
+    "values in\ncolumn names" -> pivot_longer [label="fixed by"];
+    "variable names\nin a column" -> pivot_wider [label="fixed by"];
+    "wide to long" -> pivot_longer [label="using"];
+    "long to wide" -> pivot_wider [label="using"];
+}

@@ -6,44 +6,107 @@ All material made available under the [Creative Commons - Attribution license](L
 
 ## dplyr
 
-<a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/dplyr_drawio.svg"><img src="en/dplyr_drawio.svg" alt="dplyr" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/dplyr_dot.svg"><img src="en/dplyr_dot.svg" alt="dplyr" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Greg Wilson][wilson-greg]
 
 ## Select
 
-<a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/select_drawio.svg"><img src="en/select_drawio.svg" alt="dplyr select" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/select_dot.svg"><img src="en/select_dot.svg" alt="dplyr select" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Greg Wilson][wilson-greg]
 
 ## Filter
 
-<a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/filter_drawio.svg"><img src="en/filter_drawio.svg" alt="dplyr filter" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/filter_dot.svg"><img src="en/filter_dot.svg" alt="dplyr filter" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Greg Wilson][wilson-greg]
 
 ## Mutate
 
-<a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/mutate_drawio.svg"><img src="en/mutate_drawio.svg" alt="dplyr mutate" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/mutate_dot.svg"><img src="en/mutate_dot.svg" alt="dplyr mutate" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Greg Wilson][wilson-greg]
 
 ## Group_by and Summarize
 
-<a href="en/group_by_summarize.svg"><img src="en/group_by_summarize.svg" alt="dplyr group_by and summarize" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/group_by_summarize_drawio.svg"><img src="en/group_by_summarize_drawio.svg" alt="dplyr group_by and summarize" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/group_by_summarize_dot.svg"><img src="en/group_by_summarize_dot.svg" alt="dplyr group_by and summarize" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Greg Wilson][wilson-greg]
 
 ## Data Types
 
-<a href="en/data_types.svg"><img src="en/data_types.svg" alt="data types" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/data_types_drawio.svg"><img src="en/data_types_drawio.svg" alt="data types" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/data_types_dot.svg"><img src="en/data_types_dot.svg" alt="data types" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
 ## Pivoting
 
-<a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="50%" /></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="en/pivoting_drawio.svg"><img src="en/pivoting_drawio.svg" alt="pivoting" size="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="en/pivoting_dot.svg"><img src="en/pivoting_dot.svg" alt="pivoting" size="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 Florian Schmoll
 
@@ -104,10 +167,11 @@ Florian Schmoll
 -   **Why not use [Graphviz](https://graphviz.org/),
     [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/),
     or some other tool that compiles text into diagrams?**
-    1.  They have a much steeper learning curve,
-        which means fewer people will be able to contribute.
-    2.  It's hard to get their automatic layout algorithms
+    1.  As the graphviz-generated files show,
+        it's hard to get their automatic layout algorithms
         to do as good a job as a person can do.
+    2.  They have a much steeper learning curve,
+        which means fewer people will be able to contribute.
     3.  They don't actually make version control easier
         (reading and understanding the textual description of a diagram
         is as hard as viewing two diagrams side by side).

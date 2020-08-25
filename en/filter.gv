@@ -1,0 +1,16 @@
+digraph filter {
+    filter -> columns [label="does not\nmodify"];
+    filter -> dplyr [label="part of"];
+    filter -> dataframe [label="acts on"];
+    filter -> rows [label="keeps\nsome of"];
+    filter -> condition [label="specifies"];
+    dataframe -> rows [label="has"];
+    dataframe -> columns [label="has"];
+    condition -> rows [label="identifies"];
+    condition -> rows [label="works\nseparately\non each"];
+    condition -> Boolean [label="must be"];
+    Boolean -> "and / or / not" [label="combined\nwith"];
+    condition -> comparison;
+    condition -> membership;
+    condition -> pattern;
+}

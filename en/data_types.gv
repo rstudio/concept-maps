@@ -1,0 +1,30 @@
+digraph data_types {
+    compound=true;
+    data -> untidy [label="can be"];
+    data -> tidy [label="can be"];
+    untidy -> tidy [label="can be made"];
+    data -> "CSV file" [label="stored in"];
+    data -> spreadsheet [label="stored in"];
+    data -> database [label="stored in"];
+    data -> "data type" [label="has"];
+    data -> "storage type" [label="has"];
+    "data type" -> character;
+    "data type" -> numeric;
+    "data type" -> "date/time";
+    "data type" -> logical;
+    "storage type" -> "same type" [lhead=cluster_table, label="can be"];
+    subgraph cluster_table {
+        edge [weight=1000, style=invis];
+        "same type" -> list -> dataframe;
+        "mixed types" -> vector -> matrix;
+        "1D" -> list -> vector;
+        "2D" -> dataframe -> matrix;
+        "same type" [shape=plaintext];
+        "mixed types" [shape=plaintext];
+        "1D" [shape=plaintext];
+        "2D" [shape=plaintext];
+        rank=same {"same type" -> "mixed types"};
+        rank=same {"1D" -> list -> vector};
+        rank=same {"2D" -> dataframe -> matrix};
+    }
+}

@@ -1,0 +1,15 @@
+digraph mutate {
+    mutate -> dplyr [label="part of"];
+    mutate -> names [label="specifies"];
+    mutate -> columns [label="adds to"];
+    mutate -> dataframe [label="acts on"];
+    mutate -> expression [label="has"];
+    names -> columns [label="for new"];
+    dataframe -> columns [label="has"];
+    dataframe -> rows [label="has"];
+    expression -> rows [label="uses values\nfrom"];
+    expression -> rows [label="works\nseparately\non each"];
+    expression -> arithmetic;
+    expression -> rank;
+    expression -> "lead / lag";
+}
