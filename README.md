@@ -6,107 +6,45 @@ All material made available under the [Creative Commons - Attribution license](L
 
 ## dplyr
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/dplyr_drawio.svg"><img src="en/dplyr_drawio.svg" alt="dplyr" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/dplyr_dot.svg"><img src="en/dplyr_dot.svg" alt="dplyr" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Select
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/select_drawio.svg"><img src="en/select_drawio.svg" alt="dplyr select" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/select_dot.svg"><img src="en/select_dot.svg" alt="dplyr select" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Filter
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/filter_drawio.svg"><img src="en/filter_drawio.svg" alt="dplyr filter" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/filter_dot.svg"><img src="en/filter_dot.svg" alt="dplyr filter" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Mutate
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/mutate_drawio.svg"><img src="en/mutate_drawio.svg" alt="dplyr mutate" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/mutate_dot.svg"><img src="en/mutate_dot.svg" alt="dplyr mutate" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Group_by and Summarize
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/group_by_summarize_drawio.svg"><img src="en/group_by_summarize_drawio.svg" alt="dplyr group_by and summarize" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/group_by_summarize_dot.svg"><img src="en/group_by_summarize_dot.svg" alt="dplyr group_by and summarize" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/group_by_summarize.svg"><img src="en/group_by_summarize.svg" alt="dplyr group_by and summarize" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Data Types
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/data_types_drawio.svg"><img src="en/data_types_drawio.svg" alt="data types" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/data_types_dot.svg"><img src="en/data_types_dot.svg" alt="data types" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/data_types.svg"><img src="en/data_types.svg" alt="data types" size="90%" /></a>
+
 
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
 ## Pivoting
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="en/pivoting_drawio.svg"><img src="en/pivoting_drawio.svg" alt="pivoting" size="100%" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="en/pivoting_dot.svg"><img src="en/pivoting_dot.svg" alt="pivoting" size="100%" /></a>
-    </td>
-  </tr>
-</table>
+<a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="90%" /></a>
 
 Florian Schmoll
 
@@ -170,6 +108,13 @@ Florian Schmoll
     1.  As the graphviz-generated files show,
         it's hard to get their automatic layout algorithms
         to do as good a job as a person can do.
+        - <a href="dot/dplyr.svg">dplyr</a>
+        - <a href="dot/select.svg">select</a>
+        - <a href="dot/filter.svg">filter</a>
+        - <a href="dot/mutate.svg">mutate</a>
+        - <a href="dot/group_by_summarize.svg">group_by / summarize</a>
+        - <a href="dot/data_types.svg">data types</a>
+        - <a href="dot/pivoting.svg">pivoting</a>
     2.  They have a much steeper learning curve,
         which means fewer people will be able to contribute.
     3.  They don't actually make version control easier
