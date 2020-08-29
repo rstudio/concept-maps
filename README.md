@@ -10,44 +10,44 @@ All material made available under the [Creative Commons - Attribution license](L
 
 [Greg Wilson][wilson-greg]
 
-## Select
+## select
 
 <a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Filter
+## filter
 
 <a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Mutate
+## mutate
 
 <a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Group_by and Summarize
+## group_by and summarize
 
 <a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Data Types
+## data types
 
 <a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" size="90%" /></a>
 
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
-## Pivoting
+## pivoting
 
 <a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="90%" /></a>
 
 Florian Schmoll
 
-## Separate - Extract - Unite
+## separate - extract - unite
 
 <a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" size="90%" /></a>
 
@@ -110,16 +110,9 @@ Florian Schmoll
 -   **Why not use [Graphviz](https://graphviz.org/),
     [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/),
     or some other tool that compiles text into diagrams?**
-    1.  As the graphviz-generated files show,
+    1.  As [these graphviz-generated files](./dot/README.md) show,
         it's hard to get their automatic layout algorithms
         to do as good a job as a person can do.
-        - <a href="dot/dplyr.svg">dplyr</a>
-        - <a href="dot/select.svg">select</a>
-        - <a href="dot/filter.svg">filter</a>
-        - <a href="dot/mutate.svg">mutate</a>
-        - <a href="dot/group_by-summarize.svg">group_by / summarize</a>
-        - <a href="dot/data-types.svg">data types</a>
-        - <a href="dot/pivoting.svg">pivoting</a>
     2.  They have a much steeper learning curve,
         which means fewer people will be able to contribute.
     3.  They don't actually make version control easier
