@@ -1,8 +1,8 @@
 .PHONY : all
 
 CMD=dot -Tsvg
-SRC=$(wildcard */*.gv)
-DST=$(patsubst %.gv,%_dot.svg,${SRC})
+SRC=$(wildcard dot/*.gv)
+DST=$(patsubst dot/%.gv,dot/%.svg,${SRC})
 
 all: commands
 
@@ -24,5 +24,5 @@ show :
 # ----------------------------------------------------------------------
 
 # Pattern rule to remake .svg from .gv.
-%_dot.svg : %.gv
+dot/%.svg : dot/%.gv
 	${CMD} $< > $@

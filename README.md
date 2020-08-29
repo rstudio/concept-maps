@@ -30,13 +30,13 @@ All material made available under the [Creative Commons - Attribution license](L
 
 ## Group_by and Summarize
 
-<a href="en/group_by_summarize.svg"><img src="en/group_by_summarize.svg" alt="dplyr group_by and summarize" size="90%" /></a>
+<a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" size="90%" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## Data Types
 
-<a href="en/data_types.svg"><img src="en/data_types.svg" alt="data types" size="90%" /></a>
+<a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" size="90%" /></a>
 
 
 [Meghan Sposato][sposato-meghan],
@@ -112,8 +112,8 @@ Florian Schmoll
         - <a href="dot/select.svg">select</a>
         - <a href="dot/filter.svg">filter</a>
         - <a href="dot/mutate.svg">mutate</a>
-        - <a href="dot/group_by_summarize.svg">group_by / summarize</a>
-        - <a href="dot/data_types.svg">data types</a>
+        - <a href="dot/group_by-summarize.svg">group_by / summarize</a>
+        - <a href="dot/data-types.svg">data types</a>
         - <a href="dot/pivoting.svg">pivoting</a>
     2.  They have a much steeper learning curve,
         which means fewer people will be able to contribute.
