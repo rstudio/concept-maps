@@ -1,0 +1,13 @@
+digraph "factors" {
+    factors -> ordered [label="can be"];
+    factors -> unordered [label="can be"];
+    ordered -> unordered [label="changeable", dir="both"];
+    factors -> "integers with names" [label="implemented as"];
+    "integers with names" -> "efficient storage" [label="helps"];
+    factors -> "efficient storage" [label="enable"];
+    factors -> "value validation" [label="enable"];
+    factors -> "non-alphabetic order" [label="enable"];
+    factors -> "limited set of values" [label="have"];
+    "limited set of values" -> "integers with names" [label="because"];
+    "limited set of values" -> "weekdays" [label="example"];
+}

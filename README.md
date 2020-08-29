@@ -53,6 +53,12 @@ Florian Schmoll
 
 [Greg Wilson][wilson-greg]
 
+## factors
+
+<a href="en/factors.svg"><img src="en/factors.svg" alt="factors" size="90%" /></a>
+
+[Ildiko Czeller][czeller-ildiko]
+
 ---
 
 ## Formatting
@@ -130,5 +136,6 @@ Florian Schmoll
         is as hard as viewing two diagrams side by side).
 
 [cullen-brendan]: https://bcullen.rbind.io/
+[czeller-ildiko]: https://ildiczeller.com/
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
 [wilson-greg]: http://third-bit.com
