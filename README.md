@@ -63,15 +63,23 @@ Florian Schmoll
     from [the project's GitHub repository](https://github.com/jgraph/drawio)
     (approximately 100MB).
 
--   Please save the `.drawio` file and also export an SVG by selecting everything
-    and then using these settings:
+-   Please save the `.drawio` file in the `en` (English) directory.
+    -   Use the "Sketch" style,
+        which can be chosen from the "Style" menu when no elements are selected.
+        (See [this blog post](https://www.diagrams.net/blog/rough-style) for details.)
+    -   Select all elements,
+        then select "Background color" on the "Text" tab
+        and select the checkerboard pattern to give everything a transparent background.
+
+-   Please also export an SVG by selecting everything and then using these settings:
     -   Zoom: 100%
     -   Border Width: 4 pixels
     -   Transparent Background
     -   Selection Only
         -   Crop
+    -   Include a copy of my diagram
 
-    Do *not* select "Shadow", "Embed Images", or "Include a copy of my diagram".
+    Do *not* select "Shadow" or "Embed Images".
 
 -   Show concepts with rounded rectangles:
     -   1pt black outline
@@ -96,7 +104,9 @@ Florian Schmoll
     and allow learners to check that they have constructed the right mental model.
 
 -   **What about translations?**
-    Please copy an existing diagram and save it in the appropriate language directory
+    We hope eventually to be able to store translated text in the `.drawio` files.
+    For now,
+    please copy an existing diagram and save it in the appropriate language directory
     (e.g., `af/topic.drawio` for concept maps in Afar).
 
 -   **Why SVG?**
