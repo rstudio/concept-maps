@@ -38,7 +38,6 @@ All material made available under the [Creative Commons - Attribution license](L
 
 <a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" size="90%" /></a>
 
-
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
@@ -47,6 +46,12 @@ All material made available under the [Creative Commons - Attribution license](L
 <a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="90%" /></a>
 
 Florian Schmoll
+
+## Separate - Extract - Unite
+
+<a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" size="90%" /></a>
+
+[Greg Wilson][wilson-greg]
 
 ---
 

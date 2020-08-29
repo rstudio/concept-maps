@@ -1,4 +1,4 @@
-digraph pivoting {
+digraph "pivoting" {
     pivot_longer -> dplyr [label="part of"];
     pivot_wider -> dplyr [label="part of"];
     dataframe -> "values in\ncolumn names" [label="can have"];

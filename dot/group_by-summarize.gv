@@ -1,4 +1,4 @@
-digraph group_by_summarize {
+digraph "group_by-summarize" {
     group_by -> dplyr [label="part of"];
     summarize -> dplyr [label="part of"];
     group_by -> columns [label="specifies"];

@@ -1,4 +1,4 @@
-digraph mutate {
+digraph "mutate" {
     mutate -> dplyr [label="part of"];
     mutate -> names [label="specifies"];
     mutate -> columns [label="adds to"];

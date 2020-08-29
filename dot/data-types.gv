@@ -1,4 +1,4 @@
-digraph data_types {
+digraph "data-types" {
     compound=true;
     data -> untidy [label="can be"];
     data -> tidy [label="can be"];

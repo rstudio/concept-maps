@@ -1,4 +1,4 @@
-digraph filter {
+digraph "filter" {
     filter -> columns [label="does not\nmodify"];
     filter -> dplyr [label="part of"];
     filter -> dataframe [label="acts on"];

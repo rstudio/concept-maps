@@ -1,0 +1,12 @@
+digraph "separate-extract-unite" {
+    separate -> positions [label="can use"];
+    extract -> positions [label="can use"];
+    separate -> "regular\nexpressions" [label="can use"];
+    extract -> "regular\nexpressions" [label="can use"];
+    separate -> columns [label="creates"];
+    separate -> unite [label="can reverse"];
+    extract -> columns [label="creates"];
+    unite -> columns [label="combines"];
+    separate -> NA [label="can fill with"];
+    extract -> NA [label="can create"];
+}

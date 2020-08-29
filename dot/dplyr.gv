@@ -1,4 +1,4 @@
-digraph dplyr {
+digraph "dplyr" {
     columns -> "statistical variables" [label="represent"];
     columns -> "unique names" [label="must have"];
     select -> columns [label="chooses"];

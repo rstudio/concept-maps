@@ -1,4 +1,4 @@
-digraph select {
+digraph "select" {
     select -> rows [label="does not\nmodify"];
     select -> dataframe [label="acts on"];
     select -> dplyr [label="part of"];
