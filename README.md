@@ -112,8 +112,12 @@ Florian Schmoll
 
 -   Do *not* select "Transparent Background", "Shadow", or "Embed Images".
 
-<img src="save-svg-parameters.png" alt="Parameters for saving SVG" />
-<img src="save-png-parameters.png" alt="Parameters for saving PNG" />
+<table cellpadding="4px">
+  <tr>
+    <td><img src="save-svg-parameters.png" alt="Parameters for saving SVG" border="1"/></td>
+    <td><img src="save-png-parameters.png" alt="Parameters for saving PNG" border="1"/></td>
+  </tr>
+</table>
 
 ## Discussion
 
