@@ -77,38 +77,43 @@ Florian Schmoll
     from [the project's GitHub repository](https://github.com/jgraph/drawio)
     (approximately 100MB).
 
--   Please save the `.drawio` file in the `en` (English) directory.
-    -   Use the "Sketch" style,
-        which can be chosen from the "Style" menu when no elements are selected.
-        (See [this blog post](https://www.diagrams.net/blog/rough-style) for details.)
-    -   Select all elements,
-        then select "Background color" on the "Text" tab
-        and select the checkerboard pattern to give everything a transparent background.
+-   Use the "Sketch" style,
+    which can be chosen from the "Style" menu when no elements are selected.
+    (See [this blog post](https://www.diagrams.net/blog/rough-style) for details.)
 
--   Please also export an SVG by selecting everything and then using these settings:
-    -   Zoom: 100%
-    -   Border Width: 4 pixels
-    -   Transparent Background
-    -   Selection Only
-        -   Crop
-    -   Include a copy of my diagram
-
-    Do *not* select "Shadow" or "Embed Images".
+-   Use #FEFEFF (very pale blue) as a background color
+    and #000080 (very dark blue) for lines and text.
+    This makes it easy to change colors by replacing strings in the generated SVG,
+    though changing colors in the PNG requires editing and re-exporting.
 
 -   Show concepts with rounded rectangles:
-    -   1pt black outline
+    -   1pt outline using #000080
     -   No fill
     -   12pt Helvetica font
     -   If there is a central concept:
-        -   3pt black outline
+        -   3pt outline
         -   Make text bold and italic
 
 -   Show relationships with arrows:
-    -   3pt dark gray lines (hex code #B3B3B3)
+    -   3pt lines using #000080
     -   12pt Helvetica
     -   No background for text
     -   Connect both ends to anchor points on concepts
     -   Move text as needed so that it does *not* lie on the line
+
+## Exporting
+
+-   Please export SVG and PNG by selecting everything and then using these settings:
+    -   Zoom: 100%
+    -   Border Width: 4 pixels
+    -   Selection Only
+        -   Crop
+    -   Include a copy of my diagram
+
+-   Do *not* select "Transparent Background", "Shadow", or "Embed Images".
+
+<img src="save-svg-parameters.png" alt="Parameters for saving SVG" />
+<img src="save-png-parameters.png" alt="Parameters for saving PNG" />
 
 ## Discussion
 
