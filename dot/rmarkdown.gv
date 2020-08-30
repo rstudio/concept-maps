@@ -1,0 +1,23 @@
+digraph rmarkdown {
+    "R Markdown" -> YAML [label="contains"];
+    "R Markdown" -> Markdown [label="contains"];
+    "R Markdown" -> "R code" [label="contains"];
+    "R code" -> chunks [label="can be in"];
+    YAML -> metadata [label="used for"];
+    metadata -> documents [label="controls formatting"];
+    metadata -> "R code" [label="used in"];
+    documents -> PDF;
+    documents -> slides;
+    documents -> HTML;
+    "R code" -> inline [label="can be"];
+    "R code" -> documents [label="executed to produce"];
+    documents -> reproducible [label="are"];
+    Markdown -> "formatted text" [label="describes"];
+    "formatted text" -> "documents" [label="goes in"];
+    chunks -> names [label="can have"];
+    chunks -> parameters [label="can have"];
+    inline -> "formatted text" [label="can produce"];
+    chunks -> "formatted text" [label="can produce"];
+    chunks -> tables [label="can produce"];
+    chunks -> plots [label="can produce"];
+}

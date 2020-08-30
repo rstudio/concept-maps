@@ -57,7 +57,15 @@ Florian Schmoll
 
 <a href="en/factors.svg"><img src="en/factors.svg" alt="factors" size="90%" /></a>
 
-[Ildiko Czeller][czeller-ildiko]
+[Ildiko Czeller][czeller-ildiko], [Graham Parsons][parsons-graham]
+
+## R Markdown
+
+<a href="en/rmarkdown.svg"><img src="en/rmarkdown.svg" alt="R Markdown" size="90%" /></a>
+
+[Gabriela Sandoval][sandoval-gabriela],
+[Florencia D'Andrea][dandrea-florencia],
+[Yanina Bellini Saibene][bellini-saibene-yanina]
 
 ---
 
@@ -137,5 +145,9 @@ Florian Schmoll
 
 [cullen-brendan]: https://bcullen.rbind.io/
 [czeller-ildiko]: https://ildiczeller.com/
+[parsons-graham]: http://grahamrp.com/
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
 [wilson-greg]: http://third-bit.com
+[sandoval-gabriela]: https://twitter.com/GabySandovalM
+[dandrea-florencia]: https://florencia.netlify.app/
+[bellini-saibene-yanina]: https://yabellini.netlify.app/
