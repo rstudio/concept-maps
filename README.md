@@ -160,4 +160,4 @@ Florian Schmoll
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [dandrea-florencia]: https://florencia.netlify.app/
 [bellini-saibene-yanina]: https://yabellini.netlify.app/
-[jeroen-janssens]: https:://jeroenjanssens.com
+[jeroen-janssens]: https://jeroenjanssens.com
