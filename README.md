@@ -67,6 +67,12 @@ Florian Schmoll
 [Florencia D'Andrea][dandrea-florencia],
 [Yanina Bellini Saibene][bellini-saibene-yanina]
 
+## Visualization
+
+<a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" size="90%" /></a>
+
+[Greg Wilson][wilson-greg]
+
 ---
 
 ## Formatting
