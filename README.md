@@ -73,6 +73,12 @@ Florian Schmoll
 
 [Greg Wilson][wilson-greg]
 
+## Pipe Operator
+
+<a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="Pipe Operator" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Jeroen Janssens][jeroen-janssens]
+
 ---
 
 ## Formatting
@@ -154,3 +160,4 @@ Florian Schmoll
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [dandrea-florencia]: https://florencia.netlify.app/
 [bellini-saibene-yanina]: https://yabellini.netlify.app/
+[jeroen-janssens]: https:://jeroenjanssens.com
