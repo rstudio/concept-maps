@@ -6,62 +6,62 @@ All material made available under the [Creative Commons - Attribution license](L
 
 ## dplyr
 
-<a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" size="90%" /></a>
+<a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## select
 
-<a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" size="90%" /></a>
+<a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## filter
 
-<a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" size="90%" /></a>
+<a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## mutate
 
-<a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" size="90%" /></a>
+<a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## group_by and summarize
 
-<a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" size="90%" /></a>
+<a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## data types
 
-<a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" size="90%" /></a>
+<a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Meghan Sposato][sposato-meghan],
 [Brendan Cullen][cullen-brendan]
 
 ## pivoting
 
-<a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" size="90%" /></a>
+<a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 Florian Schmoll
 
 ## separate - extract - unite
 
-<a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" size="90%" /></a>
+<a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
 ## factors
 
-<a href="en/factors.svg"><img src="en/factors.svg" alt="factors" size="90%" /></a>
+<a href="en/factors.svg"><img src="en/factors.svg" alt="factors" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Ildiko Czeller][czeller-ildiko], [Graham Parsons][parsons-graham]
 
 ## R Markdown
 
-<a href="en/rmarkdown.svg"><img src="en/rmarkdown.svg" alt="R Markdown" size="90%" /></a>
+<a href="en/rmarkdown.svg"><img src="en/rmarkdown.svg" alt="R Markdown" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Gabriela Sandoval][sandoval-gabriela],
 [Florencia D'Andrea][dandrea-florencia],
@@ -69,7 +69,7 @@ Florian Schmoll
 
 ## Visualization
 
-<a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" size="90%" /></a>
+<a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
@@ -83,47 +83,35 @@ Florian Schmoll
     from [the project's GitHub repository](https://github.com/jgraph/drawio)
     (approximately 100MB).
 
+-   Save all diagrams as "Editable SVG"
+    (a superset of the SVG standard that includes information about anchor points and connections).
+
 -   Use the "Sketch" style,
     which can be chosen from the "Style" menu when no elements are selected.
     (See [this blog post](https://www.diagrams.net/blog/rough-style) for details.)
 
 -   Use #FEFEFF (very pale blue) as a background color
     and #000080 (very dark blue) for lines and text.
-    This makes it easy to change colors by replacing strings in the generated SVG,
-    though changing colors in the PNG requires editing and re-exporting.
+    Use 1pt lines, no fill, and 12pt Helvetica.
+    If there is a central concept,
+    give it a 3pt outline
+    and make the text bold and italic
 
--   Show concepts with rounded rectangles:
-    -   1pt outline using #000080
-    -   No fill
-    -   12pt Helvetica font
-    -   If there is a central concept:
-        -   3pt outline
-        -   Make text bold and italic
-
--   Show relationships with arrows:
-    -   3pt lines using #000080
-    -   12pt Helvetica
-    -   No background for text
-    -   Connect both ends to anchor points on concepts
-    -   Move text as needed so that it does *not* lie on the line
+-   Connect both ends of lines to anchor points on concepts
+    and move text as needed so that it does *not* lie on the line.
 
 ## Exporting
 
--   Please export SVG and PNG by selecting everything and then using these settings:
+-   Export PNG by selecting everything and then using these settings:
     -   Zoom: 100%
     -   Border Width: 4 pixels
     -   Selection Only
         -   Crop
-    -   Include a copy of my diagram
 
--   Do *not* select "Transparent Background", "Shadow", or "Embed Images".
+-   Do *not* select "Transparent Background", "Shadow", "Embed Images",
+    or "Include a copy of my diagram".
 
-<table cellpadding="4px">
-  <tr>
-    <td><img src="save-svg-parameters.png" alt="Parameters for saving SVG" border="1"/></td>
-    <td><img src="save-png-parameters.png" alt="Parameters for saving PNG" border="1"/></td>
-  </tr>
-</table>
+<img src="save-png-parameters.png" alt="Parameters for saving PNG" style="border: 1px solid #000080; padding: 4px;"/>
 
 ## Discussion
 
