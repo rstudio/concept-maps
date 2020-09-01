@@ -160,12 +160,12 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
         (reading and understanding the textual description of a diagram
         is as hard as viewing two diagrams side by side).
 
+[bellini-saibene-yanina]: https://yabellini.netlify.app/
 [cullen-brendan]: https://bcullen.rbind.io/
 [czeller-ildiko]: https://ildiczeller.com/
+[dandrea-florencia]: https://florencia.netlify.app/
+[janssens-jeroen]: https://jeroenjanssens.com
 [parsons-graham]: http://grahamrp.com/
+[sandoval-gabriela]: https://twitter.com/GabySandovalM
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
 [wilson-greg]: http://third-bit.com
-[sandoval-gabriela]: https://twitter.com/GabySandovalM
-[dandrea-florencia]: https://florencia.netlify.app/
-[bellini-saibene-yanina]: https://yabellini.netlify.app/
-[janssens-jeroen]: https://jeroenjanssens.com
