@@ -81,6 +81,12 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 
 [Greg Wilson][wilson-greg]
 
+## Pipe Operator
+
+<a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="Pipe Operator" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Jeroen Janssens][janssens-jeroen]
+
 ---
 
 ## Formatting
@@ -162,3 +168,4 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [dandrea-florencia]: https://florencia.netlify.app/
 [bellini-saibene-yanina]: https://yabellini.netlify.app/
+[janssens-jeroen]: https://jeroenjanssens.com
