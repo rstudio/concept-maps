@@ -10,8 +10,9 @@ all: commands
 commands :
 	@grep -h -E '^##' ${MAKEFILE_LIST} | sed -e 's/## //g' | column -t -s ':'
 
-## dot : rebuild dot-generated SVG files.
-dot : ${DST}
+## preview : generate an HTML page for local preview.
+preview :
+	@pandoc -o preview.html README.md
 
 ## --------
 
@@ -20,6 +21,9 @@ show :
 	@echo CMD \"${CMD}\"
 	@echo SRC \"${SRC}\"
 	@echo DST \"${DST}\"
+
+## dot : rebuild dot-generated SVG files (used for prototyping).
+dot : ${DST}
 
 # ----------------------------------------------------------------------
 
