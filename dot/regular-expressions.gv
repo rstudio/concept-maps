@@ -1,0 +1,30 @@
+digraph regex {
+    "regular\nexpressions" -> "also called";
+    "also called" -> "regex";
+    "also called" -> "RE";
+    "regular\nexpressions" -> "character\nstrings" [label="are"];
+    "character\nstrings" -> "character\nstrings" [label="that match"];
+    "regular\nexpressions" -> "can";
+    "can" -> "match";
+    "can" -> "extract";
+    "extract" -> "groups" [label="via"];
+    "regular\nexpressions" -> "contain";
+    "contain" -> "plain text";
+    "plain text" -> "matches itself";
+    "contain" -> "repeat";
+    "repeat" -> "+";
+    "repeat" -> "*";
+    "repeat" -> "?";
+    "contain" -> "character set";
+    "contain" -> "groups";
+    "*" -> "zero or more";
+    "+" -> "one or more";
+    "?" -> "optional";
+    "character set" -> "[...]" -> "any of";
+    "character set" -> "[...-...]" -> "range";
+    "character set" -> "[^...]" -> "none of";
+    "groups" -> "(...)";
+    "contain" -> "markers";
+    "markers" -> "^" -> "start of line";
+    "markers" -> "$" -> "end of line";
+}

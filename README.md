@@ -67,7 +67,15 @@ Florian Schmoll
 [Florencia D'Andrea][dandrea-florencia],
 [Yanina Bellini Saibene][bellini-saibene-yanina]
 
+## Regular expressions
+
+<a href="en/regular-expressions.svg"><img src="en/regular-expressions.svg" alt="regular expressions" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
 ## Visualization
+
+This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
 
 <a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
 
