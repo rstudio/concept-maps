@@ -1,0 +1,36 @@
+digraph viz {
+    visualization -> layers [label="built up in"];
+    visualization -> data [label="gives insight into"];
+    layers -> mapping;
+    layers -> geometry;
+    data -> has;
+    has [style=dashed];
+    has -> variables;
+    has -> observations;
+    variables -> combine;
+    mapping -> combine;
+    combine -> "visual properties";
+    combine [label="combine", style=dashed];
+    "visual properties" -> geometry [label="of"];
+    geometry -> box;
+    geometry -> line;
+    geometry -> point;
+    geometry -> bar;
+    observations -> aggregate;
+    aggregate -> box;
+    aggregate -> bar;
+    aggregate [style=dashed];
+    observations -> individual;
+    individual -> point;
+    individual -> line;
+    individual [style=dashed];
+    visualization -> axes [label="has"];
+    axes -> "can be";
+    "can be" -> categorical;
+    "can be" -> continuous;
+    "can be" [style=dashed];
+    categorical -> bar;
+    categorical -> box;
+    continuous -> line;
+    continuous -> point;
+}
