@@ -1,0 +1,36 @@
+digraph join {
+    dataframes -> rows [label="have"];
+    dataframes -> columns [label="have"];
+    columns -> keys [label="can be used as"];
+    keys -> rows [label="control selection of"];
+    keys -> "can be in";
+    "can be in" [style=dashed];
+    "can be in" -> "left only";
+    "can be in" -> "both";
+    "can be in" -> "right only";
+    "both" -> "inner join";
+    "left only" -> "left join";
+    "both" -> "left join";
+    "right only" -> "right join";
+    "both" -> "right join";
+    "left only" -> "full join";
+    "both" -> "full join";
+    "right only" -> "full join";
+    "inner join" -> "full join" [style=invis];
+    "both" -> "semi-join";
+    "semi-join" -> "left only" [label="keeps columns from"];
+    "left only" -> "both" [style=invis];
+    "both" -> "right only" [style=invis];
+    "left only" -> "anti-join";
+    "anti-join" -> "left only" [label="keeps columns from"];
+    "right join" -> "keeps columns from";
+    "full join" -> "keeps columns from";
+    "left join" -> "keeps columns from";
+    "keeps columns from" -> "both";
+    "keeps columns from" [style=dashed];
+    "right join" -> "fills missing with";
+    "full join" -> "fills missing with";
+    "left join" -> "fills missing with";
+    "fills missing with" [style=dashed];
+    "fills missing with" -> "NA";
+}

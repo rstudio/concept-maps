@@ -87,6 +87,12 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 
 [Jeroen Janssens][janssens-jeroen]
 
+## Joins
+
+<a href="en/join.svg"><img src="en/join.svg" alt="Joins" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
 ---
 
 ## Formatting
