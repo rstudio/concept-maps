@@ -20,6 +20,7 @@ All material made available under the [Creative Commons - Attribution license](L
 1.  [join](#join)
 1.  [clustering](#clustering)
 1.  [data syndication](#data-syndication)
+1.  [Make](#make)
 
 ## dplyr
 
@@ -121,6 +122,12 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 ## data syndication
 
 <a href="en/data-syndication.svg"><img src="en/data-syndication.svg" alt="Data syndication" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
+## Make
+
+<a href="en/make.svg"><img src="en/make.svg" alt="Make" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
