@@ -67,13 +67,13 @@ Florian Schmoll
 [Florencia D'Andrea][dandrea-florencia],
 [Yanina Bellini Saibene][bellini-saibene-yanina]
 
-## Regular expressions
+## regular expressions
 
 <a href="en/regular-expressions.svg"><img src="en/regular-expressions.svg" alt="regular expressions" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Visualization
+## visualization
 
 This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
 
@@ -81,17 +81,25 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 
 [Greg Wilson][wilson-greg]
 
-## Pipe Operator
+## pipe operator
 
 <a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="Pipe Operator" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Jeroen Janssens][janssens-jeroen]
 
-## Joins
+## joins
+
+This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
 
 <a href="en/join.svg"><img src="en/join.svg" alt="Joins" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
+
+## clustering
+
+<a href="en/clustering.svg"><img src="en/clustering.svg" alt="Clustering" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Uli Niemann][niemann-uli]
 
 ---
 
@@ -171,6 +179,7 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 [czeller-ildiko]: https://ildiczeller.com/
 [dandrea-florencia]: https://florencia.netlify.app/
 [janssens-jeroen]: https://jeroenjanssens.com
+[niemann-uli]: https://www.linkedin.com/in/uli-niemann/
 [parsons-graham]: http://grahamrp.com/
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
