@@ -4,6 +4,23 @@ Mental models used in introductory data science lessons.
 
 All material made available under the [Creative Commons - Attribution license](LICENSE.md).
 
+1.  [dplyr](#dplyr)
+1.  [select](#select)
+1.  [filter](#filter)
+1.  [mutate](#mutate)
+1.  [group_by and summarize](#group_by-and-summarize)
+1.  [data types](#data-types)
+1.  [pivoting](#pivoting)
+1.  [separate - extract - unite](#separate---extract---unite)
+1.  [factors](#factors)
+1.  [R Markdown](#r-markdown)
+1.  [regular expressions](#regular-expressions)
+1.  [visualization](#visualization)
+1.  [pipe operator](#pipe-operator)
+1.  [join](#join)
+1.  [clustering](#clustering)
+1.  [data syndication](#data-syndication)
+
 ## dplyr
 
 <a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" style="border: 1px solid #000080; padding: 4px;" /></a>
@@ -87,11 +104,11 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 
 [Jeroen Janssens][janssens-jeroen]
 
-## joins
+## join
 
 This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
 
-<a href="en/join.svg"><img src="en/join.svg" alt="Joins" style="border: 1px solid #000080; padding: 4px;" /></a>
+<a href="en/join.svg"><img src="en/join.svg" alt="Join" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
@@ -100,6 +117,12 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 <a href="en/clustering.svg"><img src="en/clustering.svg" alt="Clustering" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Uli Niemann][niemann-uli]
+
+## data syndication
+
+<a href="en/data-syndication.svg"><img src="en/data-syndication.svg" alt="Data syndication" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
 
 ---
 
