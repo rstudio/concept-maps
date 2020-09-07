@@ -15,13 +15,13 @@ All material made available under the [Creative Commons - Attribution license](L
 1.  [factors](#factors)
 1.  [R Markdown](#r-markdown)
 1.  [regular expressions](#regular-expressions)
-1.  [visualization](#visualization)
 1.  [pipe operator](#pipe-operator)
-1.  [join](#join)
 1.  [clustering](#clustering)
 1.  [data syndication](#data-syndication)
 1.  [Make](#make)
 1.  [functions](#functions)
+1.  *[visualization](#visualization) (needs work)*
+1.  *[join](#join) (needs work)*
 
 ## dplyr
 
@@ -92,27 +92,11 @@ Florian Schmoll
 
 [Greg Wilson][wilson-greg]
 
-## visualization
-
-This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
-
-<a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
-
-[Greg Wilson][wilson-greg]
-
 ## pipe operator
 
 <a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="Pipe Operator" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Jeroen Janssens][janssens-jeroen]
-
-## join
-
-This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.
-
-<a href="en/join.svg"><img src="en/join.svg" alt="Join" style="border: 1px solid #000080; padding: 4px;" /></a>
-
-[Greg Wilson][wilson-greg]
 
 ## clustering
 
@@ -135,6 +119,22 @@ This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio
 ## functions
 
 <a href="en/functions.svg"><img src="en/functions.svg" alt="Functions" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
+## visualization
+
+*This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.*
+
+<a href="en/visualization.svg"><img src="en/visualization.svg" alt="Visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
+## join
+
+*This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.*
+
+<a href="en/join.svg"><img src="en/join.svg" alt="Join" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
