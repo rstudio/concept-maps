@@ -196,7 +196,7 @@ Florian Schmoll
     We hope eventually to be able to store translated text in the `.drawio` files.
     For now,
     please copy an existing diagram and save it in the appropriate language directory
-    (e.g., `af/topic.drawio` for concept maps in Afar).
+    (e.g., `af/topic.svg` for concept maps in Afar).
 
 -   **Why SVG?**
     Because vector diagrams rescale much more smoothly than raster images.
