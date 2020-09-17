@@ -29,76 +29,113 @@ All material made available under the [Creative Commons - Attribution license](L
 
 <a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/dplyr.svg"><img src="es/dplyr.svg" alt="dplyr" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## select
 
 <a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/select.svg"><img src="es/select.svg" alt="dplyr select" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## filter
 
 <a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/filter.svg"><img src="es/filter.svg" alt="dplyr filter" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## mutate
 
 <a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/mutate.svg"><img src="es/mutate.svg" alt="dplyr mutate" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## group_by and summarize
 
 <a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/group_by-summarize.svg"><img src="es/group_by-summarize.svg" alt="dplyr group_by and summarize" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## data types
 
 <a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/data-types.svg"><img src="es/data-types.svg" alt="data types" style="border: 1px solid #000080; padding: 4px;" /></a>
+
 [Meghan Sposato][sposato-meghan],
-[Brendan Cullen][cullen-brendan]
+[Brendan Cullen][cullen-brendan],
+Monica Alonso
 
 ## pivoting
 
 <a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" style="border: 1px solid #000080; padding: 4px;" /></a>
 
-Florian Schmoll
+<a href="es/pivoting.svg"><img src="es/pivoting.svg" alt="pivoting" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Florian Schmoll,
+Monica Alonso
 
 ## separate - extract - unite
 
 <a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/separate-extract-unite.svg"><img src="es/separate-extract-unite.svg" alt="separate - extract - unite" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## factors
 
 <a href="en/factors.svg"><img src="en/factors.svg" alt="factors" style="border: 1px solid #000080; padding: 4px;" /></a>
 
-[Ildiko Czeller][czeller-ildiko], [Graham Parsons][parsons-graham]
+<a href="es/factors.svg"><img src="es/factors.svg" alt="factors" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Ildiko Czeller][czeller-ildiko],
+[Graham Parsons][parsons-graham],
+Monica Alonso
 
 ## R Markdown
 
 <a href="en/rmarkdown.svg"><img src="en/rmarkdown.svg" alt="R Markdown" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/rmarkdown.svg"><img src="es/rmarkdown.svg" alt="R Markdown" style="border: 1px solid #000080; padding: 4px;" /></a>
+
 [Gabriela Sandoval][sandoval-gabriela],
 [Florencia D'Andrea][dandrea-florencia],
-[Yanina Bellini Saibene][bellini-saibene-yanina]
+[Yanina Bellini Saibene][bellini-saibene-yanina],
+Monica Alonso
 
 ## regular expressions
 
 <a href="en/regular-expressions.svg"><img src="en/regular-expressions.svg" alt="regular expressions" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/regular-expressions.svg"><img src="es/regular-expressions.svg" alt="regular expressions" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## pipe operator
 
 <a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="pipe operator" style="border: 1px solid #000080; padding: 4px;" /></a>
 
-[Jeroen Janssens][janssens-jeroen]
+<a href="es/pipe-operator.svg"><img src="es/pipe-operator.svg" alt="pipe operator" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Jeroen Janssens][janssens-jeroen],
+Monica Alonso
 
 ## clustering
 
@@ -142,6 +179,9 @@ Florian Schmoll
 
 <a href="en/visualization.svg"><img src="en/visualization.svg" alt="visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/visualization.svg"><img src="es/visualization.svg" alt="visualization" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+Monica Alonso,
 [Greg Wilson][wilson-greg]
 
 ## join
