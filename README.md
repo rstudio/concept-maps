@@ -22,6 +22,7 @@ All material made available under the [Creative Commons - Attribution license](L
 1.  [functions](#functions)
 1.  [program configuration](#program-configuration)
 1.  [column names](#column-names)
+1.  [learnr tutorial](#learnr-tutorial)
 1.  *[visualization](#visualization) (needs work)*
 1.  *[join](#join) (needs work)*
 
@@ -172,6 +173,12 @@ Monica Alonso
 <a href="en/column-names.svg"><img src="en/column-names.svg" alt="column names" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Emily Riederer][riederer-emily] (originally in [this blog post](https://emilyriederer.netlify.app/post/column-name-contracts/))
+
+## learnr tutorial
+
+<a href="en/learnr-tutorial.svg"><img src="en/learnr-tutorial.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Yanina Bellini Saibene][bellini-saibene-yanina]
 
 ## visualization
 
