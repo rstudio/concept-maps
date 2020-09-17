@@ -21,6 +21,7 @@ All material made available under the [Creative Commons - Attribution license](L
 1.  [Make](#make)
 1.  [functions](#functions)
 1.  [program configuration](#program-configuration)
+1.  [column names](#column-names)
 1.  *[visualization](#visualization) (needs work)*
 1.  *[join](#join) (needs work)*
 
@@ -125,9 +126,15 @@ Florian Schmoll
 
 ## program configuration
 
-<a href="en/program configuration.svg"><img src="en/program-configuration.svg" alt="program configuration" style="border: 1px solid #000080; padding: 4px;" /></a>
+<a href="en/program-configuration.svg"><img src="en/program-configuration.svg" alt="program configuration" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
+
+## column names
+
+<a href="en/column-names.svg"><img src="en/column-names.svg" alt="column names" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Emily Riederer][riederer-emily] (originally in [this blog post](https://emilyriederer.netlify.app/post/column-name-contracts/))
 
 ## visualization
 
@@ -225,6 +232,7 @@ Florian Schmoll
 [janssens-jeroen]: https://jeroenjanssens.com
 [niemann-uli]: https://www.linkedin.com/in/uli-niemann/
 [parsons-graham]: http://grahamrp.com/
+[riederer-emily]: https://emilyriederer.netlify.app/
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
 [wilson-greg]: http://third-bit.com
