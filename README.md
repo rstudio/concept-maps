@@ -178,6 +178,8 @@ Monica Alonso
 
 <a href="en/learnr-tutorial.svg"><img src="en/learnr-tutorial.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+<a href="es/learnr-tutorial.svg"><img src="es/learnr-tutorial.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
+
 [Yanina Bellini Saibene][bellini-saibene-yanina]
 
 ## visualization
