@@ -4,27 +4,34 @@ Mental models used in introductory data science lessons.
 
 All material made available under the [Creative Commons - Attribution license](LICENSE.md).
 
-1.  [dplyr](#dplyr)
-1.  [select](#select)
-1.  [filter](#filter)
-1.  [mutate](#mutate)
-1.  [group_by and summarize](#group_by-and-summarize)
-1.  [data types](#data-types)
-1.  [pivoting](#pivoting)
-1.  [separate - extract - unite](#separate---extract---unite)
-1.  [factors](#factors)
-1.  [R Markdown](#r-markdown)
-1.  [regular expressions](#regular-expressions)
-1.  [pipe operator](#pipe-operator)
-1.  [clustering](#clustering)
-1.  [data syndication](#data-syndication)
-1.  [Make](#make)
-1.  [functions](#functions)
-1.  [program configuration](#program-configuration)
-1.  [column names](#column-names)
-1.  [learnr tutorial](#learnr-tutorial)
-1.  *[visualization](#visualization) (needs work)*
-1.  *[join](#join) (needs work)*
+-   Concept Maps
+    -   [dplyr](#dplyr)
+    -   [select](#select)
+    -   [filter](#filter)
+    -   [mutate](#mutate)
+    -   [group_by and summarize](#group_by-and-summarize)
+    -   [data types](#data-types)
+    -   [pivoting](#pivoting)
+    -   [separate - extract - unite](#separate---extract---unite)
+    -   [factors](#factors)
+    -   [R Markdown](#r-markdown)
+    -   [regular expressions](#regular-expressions)
+    -   [pipe operator](#pipe-operator)
+    -   [clustering](#clustering)
+    -   [data syndication](#data-syndication)
+    -   [Make](#make)
+    -   [functions](#functions)
+    -   [program configuration](#program-configuration)
+    -   [column names](#column-names)
+    -   [learnr tutorial](#learnr-tutorial)
+-   Under Development
+    -   *[visualization](#visualization) (needs work)*
+    -   *[join](#join) (needs work)*
+-   [Inspirations](#inspirations)
+-   [Contributing](#contributing)
+    -   [Formatting](#formatting)
+    -   [Exporting](#exporting)
+    -   [Discussion](#discussion)
 
 ## dplyr
 
@@ -201,9 +208,78 @@ Monica Alonso,
 
 [Greg Wilson][wilson-greg]
 
----
+## Inspirations
 
-## Formatting
+### Dates and Times
+
+<a href="inspirations/datetime-silvia-canelon.png"><img src="inspirations/datetime-silvia-canelon.png" width="800" /></a>
+
+Silvia Canelón
+
+### HTTP
+
+<a href="inspirations/http.png"><img src="inspirations/http-greg-wilson.png" width="800" /></a>
+
+Greg Wilson
+
+### Map
+
+<a href="inspirations/map-lefkios-paikousis.png"><img src="inspirations/map-lefkios-paikousis.png" width="800" /></a>
+
+Lefkios Paikousis
+
+### Missing Values
+
+<a href="inspirations/missing-values-roman-popat.png"><img src="inspirations/missing-values-roman-popat.png" width="800" /></a>
+
+Roman Popat
+
+### Neural Networks
+
+<a href="inspirations/neural-networks-omayma-said.png"><img src="inspirations/neural-networks-omayma-said.png" width="800" /></a>
+
+Omayma Said
+
+### Text Analysis
+
+<a href="inspirations/text-analysis-ahmad-husain-abdullah.png"><img src="inspirations/text-analysis-ahmad-husain-abdullah.png" width="800" /></a>
+
+Ahmad Husain Abdullah
+
+### Visualization
+
+<a href="inspirations/visualization-corrado-lanera.png"><img src="inspirations/visualization-corrado-lanera.png" width="800" /></a>
+
+Corrado Lanera
+
+### RStudio Products
+
+<a href="inspirations/rstudio-products-carl-howe.png"><img src="inspirations/rstudio-products-carl-howe.png" width="800" /></a>
+
+Carl Howe
+
+### Administering RStudio Server Pro
+
+<a href="inspirations/administering-rstudio-server-pro-andrie-de-vries.png"><img src="inspirations/administering-rstudio-server-pro-andrie-de-vries.png" width="800" /></a>
+
+Andrie de Vries
+
+### RStudio Server Pro Configurations (simple and complex)
+
+<a href="inspirations/rsp-connect-simple-andrie-de-vries.png"><img src="inspirations/rsp-connect-simple-andrie-de-vries.png" width="800" /></a>
+<a href="inspirations/rsp-connect-complex-andrie-de-vries.png"><img src="inspirations/rsp-connect-complex-andrie-de-vries.png" width="800" /></a>
+
+Andrie de Vries
+
+### Setting Up RStudio Server Pro
+
+<a href="inspirations/rsp-setup-andrie-de-vries.png"><img src="inspirations/rsp-setup-andrie-de-vries.png" width="800" /></a>
+
+Andrie de Vries
+
+## Contributing
+
+### Formatting
 
 -   All diagrams are created with diagrams.net,
     which can be [used online](https://app.diagrams.net/)
@@ -228,7 +304,7 @@ Monica Alonso,
 -   Connect both ends of lines to anchor points on concepts
     and move text as needed so that it does *not* lie on the line.
 
-## Exporting
+### Exporting
 
 -   Export PNG by selecting everything and then using these settings:
     -   Zoom: 100%
@@ -241,7 +317,7 @@ Monica Alonso,
 
 <img src="save-png-parameters.png" alt="Parameters for saving PNG" style="border: 1px solid #000080; padding: 4px;"/>
 
-## Discussion
+### Discussion
 
 -   **Why concept maps?**
     They help authors figure out what they want to teach,
