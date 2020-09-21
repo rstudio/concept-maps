@@ -212,70 +212,82 @@ Monica Alonso,
 
 ### Dates and Times
 
-<a href="inspirations/datetime-silvia-canelon.png"><img src="inspirations/datetime-silvia-canelon.png" width="800" /></a>
+<a href="inspirations/datetime-silvia-canelon.png"><img src="inspirations/datetime-silvia-canelon.png" width="600" /></a>
 
 Silvia Canelón
 
 ### HTTP
 
-<a href="inspirations/http.png"><img src="inspirations/http-greg-wilson.png" width="800" /></a>
+<a href="inspirations/http.png"><img src="inspirations/http-greg-wilson.png" width="600" /></a>
 
 Greg Wilson
 
 ### Map
 
-<a href="inspirations/map-lefkios-paikousis.png"><img src="inspirations/map-lefkios-paikousis.png" width="800" /></a>
+<a href="inspirations/map-lefkios-paikousis.png"><img src="inspirations/map-lefkios-paikousis.png" width="600" /></a>
 
 Lefkios Paikousis
 
 ### Missing Values
 
-<a href="inspirations/missing-values-roman-popat.png"><img src="inspirations/missing-values-roman-popat.png" width="800" /></a>
+<a href="inspirations/missing-values-roman-popat.png"><img src="inspirations/missing-values-roman-popat.png" width="600" /></a>
 
 Roman Popat
 
 ### Neural Networks
 
-<a href="inspirations/neural-networks-omayma-said.png"><img src="inspirations/neural-networks-omayma-said.png" width="800" /></a>
+<a href="inspirations/neural-networks-omayma-said.png"><img src="inspirations/neural-networks-omayma-said.png" width="600" /></a>
 
 Omayma Said
 
 ### Text Analysis
 
-<a href="inspirations/text-analysis-ahmad-husain-abdullah.png"><img src="inspirations/text-analysis-ahmad-husain-abdullah.png" width="800" /></a>
+<a href="inspirations/text-analysis-ahmad-husain-abdullah.png"><img src="inspirations/text-analysis-ahmad-husain-abdullah.png" width="600" /></a>
 
 Ahmad Husain Abdullah
 
 ### Visualization
 
-<a href="inspirations/visualization-corrado-lanera.png"><img src="inspirations/visualization-corrado-lanera.png" width="800" /></a>
+<a href="inspirations/visualization-corrado-lanera.png"><img src="inspirations/visualization-corrado-lanera.png" width="600" /></a>
 
 Corrado Lanera
 
 ### RStudio Products
 
-<a href="inspirations/rstudio-products-carl-howe.png"><img src="inspirations/rstudio-products-carl-howe.png" width="800" /></a>
+<a href="inspirations/rstudio-products-carl-howe.png"><img src="inspirations/rstudio-products-carl-howe.png" width="600" /></a>
 
 Carl Howe
 
 ### Administering RStudio Server Pro
 
-<a href="inspirations/administering-rstudio-server-pro-andrie-de-vries.png"><img src="inspirations/administering-rstudio-server-pro-andrie-de-vries.png" width="800" /></a>
+<a href="inspirations/administering-rstudio-server-pro-andrie-de-vries.png"><img src="inspirations/administering-rstudio-server-pro-andrie-de-vries.png" width="600" /></a>
 
 Andrie de Vries
 
 ### RStudio Server Pro Configurations (simple and complex)
 
-<a href="inspirations/rsp-connect-simple-andrie-de-vries.png"><img src="inspirations/rsp-connect-simple-andrie-de-vries.png" width="800" /></a>
-<a href="inspirations/rsp-connect-complex-andrie-de-vries.png"><img src="inspirations/rsp-connect-complex-andrie-de-vries.png" width="800" /></a>
+<a href="inspirations/rsp-connect-simple-andrie-de-vries.png"><img src="inspirations/rsp-connect-simple-andrie-de-vries.png" width="600" /></a>
+<a href="inspirations/rsp-connect-complex-andrie-de-vries.png"><img src="inspirations/rsp-connect-complex-andrie-de-vries.png" width="600" /></a>
 
 Andrie de Vries
 
 ### Setting Up RStudio Server Pro
 
-<a href="inspirations/rsp-setup-andrie-de-vries.png"><img src="inspirations/rsp-setup-andrie-de-vries.png" width="800" /></a>
+<a href="inspirations/rsp-setup-andrie-de-vries.png"><img src="inspirations/rsp-setup-andrie-de-vries.png" width="600" /></a>
 
 Andrie de Vries
+
+### programs
+
+<a href="inspirations/programs.svg"><img src="inspirations/programs.svg" width="600" /></a>
+
+Greg Wilson
+
+### variables and values
+
+<a href="inspirations/variables-values.svg"><img src="inspirations/variables-values.svg" width="600" /></a>
+
+Greg Wilson
 
 ## Contributing
 
