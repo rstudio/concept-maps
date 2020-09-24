@@ -4,7 +4,7 @@ Mental models used in introductory data science lessons.
 
 All material made available under the [Creative Commons - Attribution license](LICENSE.md).
 
--   Concept Maps
+-   [Concept Maps](#concept-maps)
     -   [dplyr](#dplyr)
     -   [select](#select)
     -   [filter](#filter)
@@ -24,16 +24,19 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [program configuration](#program-configuration)
     -   [column names](#column-names)
     -   [learnr tutorial](#learnr-tutorial)
--   Under Development
-    -   *[visualization](#visualization) (needs work)*
-    -   *[join](#join) (needs work)*
+    -   [across](#across)
+-   [Under Development](#under-development)
+    -   [visualization](#visualization)
+    -   [join](#join)
 -   [Inspirations](#inspirations)
 -   [Contributing](#contributing)
     -   [Formatting](#formatting)
     -   [Exporting](#exporting)
     -   [Discussion](#discussion)
 
-## dplyr
+## Concept Maps
+
+### dplyr
 
 <a href="en/dplyr.svg"><img src="en/dplyr.svg" alt="dplyr" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -42,7 +45,7 @@ All material made available under the [Creative Commons - Attribution license](L
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## select
+### select
 
 <a href="en/select.svg"><img src="en/select.svg" alt="dplyr select" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -51,7 +54,7 @@ Monica Alonso,
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## filter
+### filter
 
 <a href="en/filter.svg"><img src="en/filter.svg" alt="dplyr filter" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -60,7 +63,7 @@ Monica Alonso,
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## mutate
+### mutate
 
 <a href="en/mutate.svg"><img src="en/mutate.svg" alt="dplyr mutate" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -69,7 +72,7 @@ Monica Alonso,
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## group_by and summarize
+### group_by and summarize
 
 <a href="en/group_by-summarize.svg"><img src="en/group_by-summarize.svg" alt="dplyr group_by and summarize" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -78,7 +81,7 @@ Monica Alonso,
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## data types
+### data types
 
 <a href="en/data-types.svg"><img src="en/data-types.svg" alt="data types" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -88,7 +91,7 @@ Monica Alonso,
 [Brendan Cullen][cullen-brendan],
 Monica Alonso
 
-## pivoting
+### pivoting
 
 <a href="en/pivoting.svg"><img src="en/pivoting.svg" alt="pivoting" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -97,7 +100,7 @@ Monica Alonso
 Florian Schmoll,
 Monica Alonso
 
-## separate - extract - unite
+### separate - extract - unite
 
 <a href="en/separate-extract-unite.svg"><img src="en/separate-extract-unite.svg" alt="separate - extract - unite" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -106,7 +109,7 @@ Monica Alonso
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## factors
+### factors
 
 <a href="en/factors.svg"><img src="en/factors.svg" alt="factors" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -116,7 +119,7 @@ Monica Alonso,
 [Graham Parsons][parsons-graham],
 Monica Alonso
 
-## R Markdown
+### R Markdown
 
 <a href="en/rmarkdown.svg"><img src="en/rmarkdown.svg" alt="R Markdown" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -127,7 +130,7 @@ Monica Alonso
 [Yanina Bellini Saibene][bellini-saibene-yanina],
 Monica Alonso
 
-## regular expressions
+### regular expressions
 
 <a href="en/regular-expressions.svg"><img src="en/regular-expressions.svg" alt="regular expressions" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -136,7 +139,7 @@ Monica Alonso
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## pipe operator
+### pipe operator
 
 <a href="en/pipe-operator.svg"><img src="en/pipe-operator.svg" alt="pipe operator" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -145,43 +148,43 @@ Monica Alonso,
 [Jeroen Janssens][janssens-jeroen],
 Monica Alonso
 
-## clustering
+### clustering
 
 <a href="en/clustering.svg"><img src="en/clustering.svg" alt="clustering" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Uli Niemann][niemann-uli]
 
-## data syndication
+### data syndication
 
 <a href="en/data-syndication.svg"><img src="en/data-syndication.svg" alt="data syndication" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## Make
+### Make
 
 <a href="en/make.svg"><img src="en/make.svg" alt="Make" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## functions
+### functions
 
 <a href="en/functions.svg"><img src="en/functions.svg" alt="functions" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## program configuration
+### program configuration
 
 <a href="en/program-configuration.svg"><img src="en/program-configuration.svg" alt="program configuration" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
-## column names
+### column names
 
 <a href="en/column-names.svg"><img src="en/column-names.svg" alt="column names" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Emily Riederer][riederer-emily] (originally in [this blog post](https://emilyriederer.netlify.app/post/column-name-contracts/))
 
-## learnr tutorial
+### learnr tutorial
 
 <a href="en/learnr-tutorial.svg"><img src="en/learnr-tutorial.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
 
@@ -189,7 +192,15 @@ Monica Alonso
 
 [Yanina Bellini Saibene][bellini-saibene-yanina]
 
-## visualization
+### across
+
+<a href="en/across.svg"><img src="en/across.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Emma Vestesson][vestesson-emma]
+
+## Under Development
+
+### visualization
 
 *This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.*
 
@@ -200,7 +211,7 @@ Monica Alonso
 Monica Alonso,
 [Greg Wilson][wilson-greg]
 
-## join
+### join
 
 *This one is still unsatisfactory: please [contact us](mailto:greg.wilson@rstudio.com) with suggestions or submit a pull request to this repository.*
 
@@ -372,4 +383,5 @@ Greg Wilson
 [riederer-emily]: https://emilyriederer.netlify.app/
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
+[vestesson-emma]: https://emmavestesson.netlify.app/
 [wilson-greg]: http://third-bit.com
