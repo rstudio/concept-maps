@@ -25,6 +25,7 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [column names](#column-names)
     -   [learnr tutorial](#learnr-tutorial)
     -   [across](#across)
+    -   [Boolean](#boolean)
 -   [Under Development](#under-development)
     -   [visualization](#visualization)
     -   [join](#join)
@@ -197,6 +198,12 @@ Monica Alonso
 <a href="en/across.svg"><img src="en/across.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Emma Vestesson][vestesson-emma]
+
+### Boolean
+
+<a href="en/boolean.svg"><img src="en/boolean.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
 
 ## Under Development
 
