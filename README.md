@@ -24,7 +24,7 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [program configuration](#program-configuration)
     -   [column names](#column-names)
     -   [learnr tutorial](#learnr-tutorial)
-    -   [column-wise operations](#columnwise-operations)
+    -   [column-wise operations](#column-wise-operations)
     -   [across](#across)
     -   [Boolean](#boolean)
 -   [Under Development](#under-development)
