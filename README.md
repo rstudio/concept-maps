@@ -342,6 +342,10 @@ Greg Wilson
 -   Connect both ends of lines to anchor points on concepts
     and move text as needed so that it does *not* lie on the line.
 
+-   When mentioning specific functions, do _not_ put `()` after the function's name
+    (as this makes it impossible to distinguish between a mention of the function
+    and a call to the function with zero arguments).
+
 ### Exporting
 
 -   Export PNG by selecting everything and then using these settings:
