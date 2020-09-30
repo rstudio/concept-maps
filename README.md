@@ -224,6 +224,7 @@ Monica Alonso,
 
 <a href="en/join.svg"><img src="en/join.svg" alt="join" style="border: 1px solid #000080; padding: 4px;" /></a>
 
+[Garrick Aden-Buie][aden-buie-garrick],
 [Greg Wilson][wilson-greg]
 
 ## Inspirations
@@ -380,6 +381,7 @@ Greg Wilson
         (reading and understanding the textual description of a diagram
         is as hard as viewing two diagrams side by side).
 
+[aden-buie-garrick]: https://www.garrickadenbuie.com/
 [bellini-saibene-yanina]: https://yabellini.netlify.app/
 [cullen-brendan]: https://bcullen.rbind.io/
 [czeller-ildiko]: https://ildiczeller.com/
