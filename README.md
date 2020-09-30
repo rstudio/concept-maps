@@ -24,6 +24,7 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [program configuration](#program-configuration)
     -   [column names](#column-names)
     -   [learnr tutorial](#learnr-tutorial)
+    -   [column-wise operations](#column-wise-operations)
     -   [across](#across)
     -   [Boolean](#boolean)
 -   [Under Development](#under-development)
@@ -192,6 +193,12 @@ Monica Alonso
 <a href="es/learnr-tutorial.svg"><img src="es/learnr-tutorial.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Yanina Bellini Saibene][bellini-saibene-yanina]
+
+### column-wise operations
+
+<a href="en/columnwise-operations.svg"><img src="en/columnwise-operations.svg" alt="learnr tutorial" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Brendan Cullen][cullen-brendan]
 
 ### across
 
