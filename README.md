@@ -27,6 +27,7 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [column-wise operations](#column-wise-operations)
     -   [across](#across)
     -   [Boolean](#boolean)
+    -   [values and variables](#values-and-variables)
 -   [Under Development](#under-development)
     -   [visualization](#visualization)
     -   [join](#join)
@@ -209,6 +210,12 @@ Monica Alonso
 ### Boolean
 
 <a href="en/boolean.svg"><img src="en/boolean.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Greg Wilson][wilson-greg]
+
+### values and variables
+
+<a href="en/values-variables.svg"><img src="en/values-variables.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
 
 [Greg Wilson][wilson-greg]
 
