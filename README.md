@@ -28,6 +28,7 @@ All material made available under the [Creative Commons - Attribution license](L
     -   [across](#across)
     -   [Boolean](#boolean)
     -   [values and variables](#values-and-variables)
+    -   [neural networks](#neural-networks)
 -   [Under Development](#under-development)
     -   [visualization](#visualization)
     -   [join](#join)
@@ -219,6 +220,13 @@ Monica Alonso
 
 [Greg Wilson][wilson-greg]
 
+### neural networks
+
+<a href="en/neural-networks.svg"><img src="en/neural-networks.svg" alt="across" style="border: 1px solid #000080; padding: 4px;" /></a>
+
+[Omayma Said][said-omayma],
+[Greg Wilson][wilson-greg]
+
 ## Under Development
 
 ### visualization
@@ -408,6 +416,7 @@ Greg Wilson
 [niemann-uli]: https://www.linkedin.com/in/uli-niemann/
 [parsons-graham]: http://grahamrp.com/
 [riederer-emily]: https://emilyriederer.netlify.app/
+[said-omayma]: https://www.onceupondata.com/
 [sandoval-gabriela]: https://twitter.com/GabySandovalM
 [sposato-meghan]: https://education.rstudio.com/trainers/people/sposato+meghan/
 [vestesson-emma]: https://emmavestesson.netlify.app/
